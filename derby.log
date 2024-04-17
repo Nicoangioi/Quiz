@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Apr 17 18:34:15 CEST 2024:
+Avvio della versione di Derby The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): istanza a816c00e-018e-ece8-aeb0-00000f2357c0
+sulla directory di database C:\Users\nicoa\Documents\NetBeansProjects\Quiz\Quizz con caricatore classi jdk.internal.loader.ClassLoaders$AppClassLoader@3f99bd52 
+Caricato da file:/C:/Program%20Files/Java/jdk-21/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=21.0.2+13-LTS-58
+user.dir=C:\Users\nicoa\Documents\NetBeansProjects\Quiz
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Programma di caricamento classe database avviato - derby.database.classpath=''
